@@ -1,4 +1,4 @@
-<h1 align="center">stylelint-config-standard</h1>
+<h1 align="center" style="text-align: center;">stylelint-config-standard</h1>
 <p align="center">
    Sharable stylelint config extends <a href="https://github.com/stylelint/stylelint-config-standard">
         stylelint-config-sass-guidelines

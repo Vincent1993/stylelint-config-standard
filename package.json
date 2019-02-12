@@ -18,5 +18,14 @@
   "license": "MIT",
   "dependencies": {
     "stylelint-config-sass-guidelines": "^5.3.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vincent1993/stylelint-config-standard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Vincent1993/stylelint-config-standard/issues"
+  },
+  "homepage": "https://github.com/Vincent1993/stylelint-config-standard#readme"
 }
