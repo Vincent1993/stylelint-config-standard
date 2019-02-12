@@ -6,17 +6,11 @@
 </p>
 
 <p align="center">
-    <a href="https://www.npmjs.com/package/@toojs/too-ui">
-        <img src="https://img.shields.io/npm/v/@toojs/too-ui.svg?style=flat-square" alt="Version">
+    <a href="https://www.npmjs.com/package/@toojs/stylelint-config-standard">
+        <img src="https://img.shields.io/npm/v/@toojs/stylelint-config-standard.svg?style=flat-square" alt="Version">
     </a>
-    <a>
-        <img src="https://img.shields.io/david/ms-design/ms-design.svg?style=flat-square" alt="Dependencies">
-    </a>
-    <a>
-        <img src="https://img.shields.io/david/dev/ms-design/ms-design.svg?style=flat-square" alt="DevDependencies">
-    </a>
-    <a href="https://www.npmjs.com/package/ms-design">
-        <img src="https://img.shields.io/npm/l/ms-design.svg?style=flat-square" alt="License">
+    <a href="https://www.npmjs.com/package/@toojs/stylelint-config-standard">
+        <img src="https://img.shields.io/npm/l/@toojs/stylelint-config-standard.svg?style=flat-square" alt="License">
     </a>
 </p>
 
